@@ -4,7 +4,7 @@ Bat
 Berries
 Bone
 Cake
-CarbonFider
+CarbonFiber
 Cloth
 Cloth2
 Coal
@@ -58,12 +58,16 @@ MissileBullet
 Mushroom
 NightStone
 PalFluid
+PalItem_ToSell_01
+PalItem_ToSell_02
+PalItem_ToSell_03
+PalItem_ToSell_04
+PalItem_ToSell_05
 PalOil
 PalSphere
 PalSphere_Giga
 PalSphere_Mega
 PalSphere_Tera
-PalSphere_giga
 Pal_crystal_S
 Pan
 Pizza
